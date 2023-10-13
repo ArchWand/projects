@@ -1,0 +1,13 @@
+character-name          jab    forward-tilt    up-tilt    down-tilt    forward-smash    up-smash    down-smash    
+fox                     2      6               3          7            13               8           6             
+incineroar              5      12              6          9            16               13          18            
+joker                   4      8               8          8            16               10          12            
+king-dedede             10     12              7          6            40               17          12            
+mega-man                7      7               6          5            19               8           17            
+pikachu                 2      6               7          7            15               10          8             
+piranha-plant           2      7               8          9            16               12          12            
+robin                   4      9               6          7            16               12          16            
+sheik                   2      5               5          5            12               11          8             
+shulk                   5      12              11         10           14               18          18            
+snake                   3      4               6          6            41               11          8             
+zelda                   4      12              7          5            16               9           5             

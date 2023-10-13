@@ -1,0 +1,5 @@
+-q cloud side-special
+-q snake all
+-d forward-tilt 9
+-f down-smash 4
+-s forward-tilt 3

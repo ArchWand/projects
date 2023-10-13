@@ -1,0 +1,12 @@
+-q toad jab
+-q king-k.-rool boomerang
+-q ridley forward-smash
+-q ike all
+-q byleth all
+-d up-tilt 60
+-f forward-tilt 44
+-f up-smash 61
+-f jab 0
+-s down-smash 35
+-s down-tilt 41
+-s counter 13

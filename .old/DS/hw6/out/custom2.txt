@@ -1,0 +1,49 @@
+8 solution(s)
+Board:
+  bakesgo
+  erasing
+  amazeia
+  normaln
+  soapysg
+Board:
+  bakesgo
+  erasing
+  amazein
+  normala
+  soapysg
+Board:
+  gsypaos
+  alamron
+  niezama
+  gnisare
+  ogsekab
+Board:
+  gsypaos
+  nlamron
+  aiezama
+  gnisare
+  ogsekab
+Board:
+  ogsekab
+  gnisare
+  aiezama
+  nlamron
+  gsypaos
+Board:
+  ogsekab
+  gnisare
+  niezama
+  alamron
+  gsypaos
+Board:
+  soapysg
+  normala
+  amazein
+  erasing
+  bakesgo
+Board:
+  soapysg
+  normaln
+  amazeia
+  erasing
+  bakesgo

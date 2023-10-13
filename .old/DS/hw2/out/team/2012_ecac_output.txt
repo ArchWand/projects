@@ -1,0 +1,14 @@
+Team Name     W   L   T   Win%  Goals  Penalties
+Quinnipiac    21  6   3   0.75     97        184
+Union         15  9   4   0.61     85        153
+Yale          16  11  2   0.59     78        149
+Rensselaer    13  10  3   0.56     72        117
+Brown         13  12  6   0.52     76        125
+Dartmouth     12  12  5   0.50     76        120
+St._Lawrence  11  12  4   0.48     70        145
+Cornell       11  13  3   0.46     62        155
+Clarkson      9   13  3   0.42     64        143
+Princeton     8   14  4   0.38     57        131
+Colgate       7   15  3   0.34     60        126
+Harvard       7   16  2   0.32     51        102
+

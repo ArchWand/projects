@@ -1,0 +1,59 @@
+Team Name     W   L   T   Win%  Goals  Penalties
+Ferris_State  8   0   0   1.00     27         45
+Maine         2   0   0   1.00     10         29
+Boston_University3   0   0   1.00      9         16
+Denver        2   0   0   1.00      6         10
+Mercyhurst    1   0   0   1.00      5          1
+Notre_Dame    1   0   0   1.00      5          3
+Alaska        1   0   0   1.00      3          5
+Boston_College1   0   0   1.00      3          5
+North_Dakota  2   0   1   0.83     14         12
+Union         26  8   7   0.72    143        190
+Colorado_College3   1   1   0.70     14         22
+Cornell       21  9   7   0.66    108        206
+Massachusetts 2   1   1   0.62     14         24
+Quinnipiac    21  14  6   0.59    127        235
+Harvard       14  10  11  0.56    113        180
+Colgate       19  17  4   0.52    124        236
+Yale          17  17  3   0.50    130        211
+Clarkson      17  17  6   0.50    109        288
+New_Hampshire 2   2   0   0.50     14         13
+Carleton      1   1   1   0.50      9         35
+Nebraska_Omaha1   1   1   0.50      9         16
+UMass_Lowell  1   1   0   0.50      9          9
+Minnesota_State2   2   0   0.50      8         35
+Army          1   1   2   0.50      7         24
+Miami         1   1   0   0.50      6         20
+Michigan_Tech 1   1   0   0.50      5          9
+Ohio_State    1   1   0   0.50      5         15
+Western_Michigan0   0   2   0.50      5         13
+Alaska_Anchorage0   0   1   0.50      4          7
+Waterloo      1   1   0   0.50      2         15
+Dartmouth     15  16  4   0.49    100        192
+Princeton     11  16  7   0.43     99        188
+St._Lawrence  14  20  3   0.42     90        197
+Niagara       1   2   2   0.40     14         31
+Brown         10  18  5   0.38     77        203
+Rensselaer    13  24  3   0.36     85        237
+Michigan      1   2   0   0.33     15         19
+Merrimack     0   1   2   0.33      8         20
+Robert_Morris 1   2   0   0.33      7         18
+Vermont       1   2   0   0.33      7          9
+RIT           1   2   0   0.33      6         15
+Holy_Cross    1   3   0   0.25      7         17
+Northeastern  0   1   1   0.25      5         10
+Sacred_Heart  1   4   0   0.20     11         29
+American_International1   4   0   0.20      8         29
+Bentley       0   3   1   0.12      8         35
+Connecticut   0   2   0   0.00      6          9
+Guelph        0   2   0   0.00      6         22
+Western_Ontario0   2   0   0.00      6         17
+Russian_Red_Stars0   1   0   0.00      4         10
+Canisius      0   3   0   0.00      3         22
+Providence    0   2   0   0.00      3         12
+Acadia        0   2   0   0.00      2         18
+Ottawa        0   1   0   0.00      2          5
+Michigan_State0   1   0   0.00      1          6
+Neumann       0   1   0   0.00      1          5
+Norwich       0   1   0   0.00      1         10
+

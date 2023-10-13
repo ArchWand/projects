@@ -1,0 +1,6 @@
+Team Name     W   L   T   Win%  Goals  Penalties
+Rensselaer    5   1   0   0.83     25         26
+Yale          3   3   0   0.50     10         31
+Cornell       2   4   0   0.33     15         33
+Clarkson      2   4   0   0.33     11         37
+

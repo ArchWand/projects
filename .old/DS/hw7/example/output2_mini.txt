@@ -1,0 +1,24 @@
+Invalid character name: cloud
+
+snake down-smash: 8
+snake down-tilt: 6
+snake forward-smash: 41
+snake forward-tilt: 4
+snake jab: 3
+snake up-smash: 11
+snake up-tilt: 6
+
+-d forward-tilt 9
+robin
+
+-f down-smash 4
+zelda 5
+fox 6
+pikachu 8
+sheik 8
+
+-s forward-tilt 3
+incineroar 12
+king-dedede 12
+shulk 12
+

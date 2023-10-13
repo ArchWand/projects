@@ -1,0 +1,6 @@
+-q mario up-smash
+-q isabelle all
+-d up-tilt 7
+-f jab 20
+-s forward-smash 11
+

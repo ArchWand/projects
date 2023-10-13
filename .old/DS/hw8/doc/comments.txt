@@ -1,0 +1,32 @@
+// Split
+	// Check if node needs to be split
+
+	// Handle splitting root node
+		// Create new root
+		// Set parent
+		// Add node as child
+
+	// Create new node
+	// Set parent
+
+	// Find index of node in parent
+	// Move keys to new node
+	// Remove keys from old node
+	// Insert new node into parent
+	// Insert key into parent
+	// If node is not a leaf, remove the duplicate key
+
+// Insert helper
+	// Handle leaf node base case
+		// Insert key
+		// Sort keys
+		// Split node if necessary
+
+	// Find child to insert into
+			// Insert key
+			// Split node if necessary
+
+// Insert
+	// Handle empty tree
+	// Insert key
+	// Split root if necessary

@@ -1,0 +1,1041 @@
+104 solution(s)
+Board:
+  eruoy
+  haaaa
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaba
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaca
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haada
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaea
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haafa
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaga
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaha
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaia
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaja
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaka
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haala
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haama
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haana
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaoa
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haapa
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaqa
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haara
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haasa
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haata
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaua
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haava
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haawa
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaxa
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaya
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  eruoy
+  haaza
+  snaed
+  odahs
+  moose
+  bmean
+  oldkd
+  daoee
+  ykcaw
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  aaaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  abaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  acaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  adaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  aeaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  afaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  agaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  ahaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  aiaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  ajaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  akaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  alaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  amaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  anaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  aoaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  apaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  aqaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  araah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  asaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  ataah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  auaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  avaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  awaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  axaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  ayaah
+  youre
+Board:
+  wacky
+  eeoad
+  dkdlo
+  naemb
+  esoom
+  shado
+  deans
+  azaah
+  youre
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaaa
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaba
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaca
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haada
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaea
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haafa
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaga
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaha
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaia
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaja
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaka
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haala
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haama
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haana
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaoa
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haapa
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaqa
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haara
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haasa
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haata
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaua
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haava
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haawa
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaxa
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaya
+  eruoy
+Board:
+  ykcaw
+  daoee
+  oldkd
+  bmean
+  moose
+  odahs
+  snaed
+  haaza
+  eruoy
+Board:
+  youre
+  aaaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  abaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  acaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  adaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  aeaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  afaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  agaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  ahaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  aiaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  ajaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  akaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  alaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  amaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  anaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  aoaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  apaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  aqaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  araah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  asaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  ataah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  auaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  avaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  awaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  axaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  ayaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky
+Board:
+  youre
+  azaah
+  deans
+  shado
+  esoom
+  naemb
+  dkdlo
+  eeoad
+  wacky

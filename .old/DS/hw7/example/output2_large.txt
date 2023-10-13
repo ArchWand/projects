@@ -1,0 +1,218 @@
+Invalid character name: toad
+
+Invalid move name: boomerang
+
+ridley forward-smash: 18
+
+ike down-smash: 13
+ike down-tilt: 7
+ike forward-smash: 31
+ike forward-tilt: 12
+ike jab: 4
+ike up-smash: 25
+ike up-tilt: 11
+
+byleth down-smash: 19
+byleth down-tilt: 13
+byleth forward-smash: 23
+byleth forward-tilt: 8
+byleth jab: 4
+byleth up-smash: 13
+byleth up-tilt: 9
+
+-d up-tilt 60
+ganondorf
+
+-f forward-tilt 44
+little-mac 4
+snake 4
+dr.mario 5
+kirby 5
+luigi 5
+mario 5
+pac-man 5
+pichu 5
+sheik 5
+squirtle 5
+yoshi 5
+falco 6
+fox 6
+meta-knight 6
+pikachu 6
+sonic 6
+wii-fit-trainer 6
+zero-suit-samus 6
+banjo&kazooie 7
+bowser-jr. 7
+captain-falcon 7
+daisy 7
+donkey-kong 7
+jigglypuff 7
+lucas 7
+mega-man 7
+ness 7
+peach 7
+piranha-plant 7
+r.o.b. 7
+rosalina 7
+byleth 8
+chrom 8
+corrin 8
+dark-samus 8
+duck-hunt 8
+inkling 8
+isabelle 8
+joker 8
+lucina 8
+marth 8
+mr.game&watch 8
+roy 8
+samus 8
+
+-f up-smash 61
+diddy-kong 5
+charizard 6
+dark-pit 6
+king-k.-rool 6
+pit 6
+bowser-jr. 7
+falco 7
+fox 8
+mega-man 8
+meta-knight 8
+rosalina 8
+banjo&kazooie 9
+dr.mario 9
+inkling 9
+ken 9
+luigi 9
+mario 9
+mewtwo 9
+pichu 9
+ryu 9
+zelda 9
+joker 10
+link 10
+little-mac 10
+ness 10
+pikachu 10
+r.o.b. 10
+terry 10
+young-link 10
+zero-suit-samus 10
+dark-samus 11
+isabelle 11
+pac-man 11
+samus 11
+sheik 11
+snake 11
+toon-link 11
+wario 11
+yoshi 11
+chrom 12
+cloud 12
+duck-hunt 12
+greninja 12
+ice-climbers 12
+kirby 12
+olimar 12
+piranha-plant 12
+ridley 12
+robin 12
+roy 12
+villager 12
+byleth 13
+corrin 13
+hero 13
+incineroar 13
+lucina 13
+marth 13
+wolf 13
+daisy 14
+donkey-kong 14
+peach 14
+
+-f jab 0
+
+-s down-smash 35
+ridley 24
+king-k.-rool 22
+mewtwo 21
+bayonetta 20
+lucas 20
+zero-suit-samus 20
+byleth 19
+captain-falcon 19
+lucario 19
+incineroar 18
+shulk 18
+squirtle 18
+wii-fit-trainer 18
+bowser 17
+mega-man 17
+palutena 17
+robin 16
+bowser-jr. 15
+ganondorf 15
+pac-man 15
+charizard 14
+jigglypuff 14
+richter 14
+simon 14
+wolf 14
+banjo&kazooie 13
+corrin 13
+ike 13
+ivysaur 13
+duck-hunt 12
+joker 12
+king-dedede 12
+link 12
+mr.game&watch 12
+ness 12
+
+-s down-tilt 41
+palutena 14
+byleth 13
+king-k.-rool 13
+banjo&kazooie 12
+captain-falcon 11
+bowser 10
+falco 10
+ganondorf 10
+jigglypuff 10
+link 10
+shulk 10
+charizard 9
+incineroar 9
+isabelle 9
+lucario 9
+piranha-plant 9
+ridley 9
+toon-link 9
+villager 9
+wii-fit-trainer 9
+daisy 8
+ice-climbers 8
+joker 8
+peach 8
+squirtle 8
+yoshi 8
+young-link 8
+zero-suit-samus 8
+bayonetta 7
+chrom 7
+cloud 7
+fox 7
+ike 7
+lucina 7
+marth 7
+pac-man 7
+pichu 7
+pikachu 7
+richter 7
+robin 7
+roy 7
+
+Invalid move name: counter
+

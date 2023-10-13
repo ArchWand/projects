@@ -1,0 +1,25 @@
+8 solution(s)
+Board:
+  cat
+  eno
+Board:
+  cat
+  one
+Board:
+  eno
+  cat
+Board:
+  eno
+  tac
+Board:
+  one
+  cat
+Board:
+  one
+  tac
+Board:
+  tac
+  eno
+Board:
+  tac
+  one

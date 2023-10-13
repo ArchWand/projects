@@ -1,0 +1,63 @@
+mario up-smash: 9
+
+isabelle down-smash: 8
+isabelle down-tilt: 9
+isabelle forward-smash: 14
+isabelle forward-tilt: 8
+isabelle jab: 3
+isabelle up-smash: 11
+isabelle up-tilt: 6
+
+-d up-tilt 7
+bowser-jr.
+corrin
+duck-hunt
+inkling
+ivysaur
+ken
+king-dedede
+pac-man
+pichu
+pikachu
+rosalina
+ryu
+terry
+villager
+wolf
+zelda
+
+-f jab 20
+little-mac 1
+zero-suit-samus 1
+daisy 2
+dr.mario 2
+falco 2
+fox 2
+kirby 2
+lucas 2
+luigi 2
+mario 2
+peach 2
+pichu 2
+pikachu 2
+piranha-plant 2
+sheik 2
+squirtle 2
+captain-falcon 3
+dark-samus 3
+diddy-kong 3
+greninja 3
+
+-s forward-smash 11
+snake 41
+king-dedede 40
+ike 31
+ganondorf 29
+villager 25
+meta-knight 24
+richter 24
+simon 24
+byleth 23
+bowser 22
+charizard 22
+

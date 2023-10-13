@@ -1,0 +1,33 @@
+4 solution(s)
+Board:
+  announced
+  irishmane
+  reeeuenac
+  ldeadpani
+  indnuomio
+  neewollah
+  egnellahc
+Board:
+  challenge
+  halloween
+  oimoundni
+  inapdaedl
+  caneueeer
+  enamhsiri
+  decnuonna
+Board:
+  decnuonna
+  enamhsiri
+  caneueeer
+  inapdaedl
+  oimoundni
+  halloween
+  challenge
+Board:
+  egnellahc
+  neewollah
+  indnuomio
+  ldeadpani
+  reeeuenac
+  irishmane
+  announced

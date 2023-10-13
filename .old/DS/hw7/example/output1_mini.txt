@@ -1,0 +1,12 @@
+king-dedede forward-smash: 40
+
+-d up-smash 10
+joker
+pikachu
+
+-f jab 1
+fox 2
+
+-s down-smash 1
+incineroar 18
+

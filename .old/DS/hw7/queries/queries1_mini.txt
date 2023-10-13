@@ -1,0 +1,4 @@
+-q king-dedede forward-smash
+-d up-smash 10
+-f jab 1
+-s down-smash 1

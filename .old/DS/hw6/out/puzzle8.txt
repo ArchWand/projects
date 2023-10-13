@@ -1,0 +1,25 @@
+4 solution(s)
+Board:
+  ncedart
+  iuchaos
+  buffalo
+  odacova
+  rmagnet
+Board:
+  rmagnet
+  odacova
+  buffalo
+  iuchaos
+  ncedart
+Board:
+  tengamr
+  avocado
+  olaffub
+  soahcui
+  tradecn
+Board:
+  tradecn
+  soahcui
+  olaffub
+  avocado
+  tengamr

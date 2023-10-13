@@ -1,0 +1,13 @@
+7 5
++ beans
++ erasing
++ amaze
++ arm
++ soapy
++ moo
++ normal
++ sling
++ bakes
++ go
++ gang
+

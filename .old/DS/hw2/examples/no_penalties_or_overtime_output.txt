@@ -1,0 +1,48 @@
+Team Name     W   L   T   Win%  Goals  Penalties
+Rensselaer    3   1   0   0.75     15          0
+Cornell       2   2   0   0.50     12          0
+Clarkson      1   3   0   0.25      9          0
+
+Player Name      Team         Goals  Assists  Penalties
+Nick_Bailen      Rensselaer       3        3          0
+Greg_Miller      Cornell          2        3          0
+Joakim_Ryan      Cornell          1        4          0
+Ryan_Haggerty    Rensselaer       2        3          0
+Brian_Ferlin     Cornell          1        3          0
+Dustin_Mowrey    Cornell          0        4          0
+Jacob_Laliberte  Rensselaer       1        3          0
+Matt_Neal        Rensselaer       1        3          0
+Mike_Zalewski    Rensselaer       2        2          0
+T.J._Moor        Clarkson         2        2          0
+Ben_Sexton       Clarkson         0        3          0
+Bo_Dolan         Rensselaer       1        2          0
+Brock_Higgs      Rensselaer       0        3          0
+John_Esposito    Cornell          3        0          0
+John_McCarron    Cornell          1        2          0
+Alex_Boak        Clarkson         0        2          0
+Allan_McPherson  Clarkson         2        0          0
+Curtis_Leonard   Rensselaer       1        1          0
+Erik_Axell       Cornell          0        2          0
+Guy_Leboeuf      Rensselaer       1        1          0
+James_Howden     Clarkson         2        0          0
+Jarrett_Burton   Clarkson         1        1          0
+Joe_Zarbo        Clarkson         1        1          0
+Joel_Lowry       Cornell          2        0          0
+Johnny_Rogic     Rensselaer       0        2          0
+Mark_Miller      Rensselaer       0        2          0
+Milos_Bubela     Rensselaer       1        1          0
+Nick_D'Agostino  Cornell          2        0          0
+Pat_Megannety    Clarkson         0        2          0
+Simon_Bessette   Clarkson         0        2          0
+Will_Frederick   Clarkson         1        1          0
+Andrew_Himelson  Clarkson         0        1          0
+Andy_Iles        Cornell          0        1          0
+Chris_Bradley    Rensselaer       0        1          0
+Cole_Bardreau    Cornell          0        1          0
+Luke_Curadi      Rensselaer       0        1          0
+Mark_McGowan     Rensselaer       1        0          0
+Paul_Geiger      Clarkson         0        1          0
+Travis_Fulton    Rensselaer       1        0          0
+Vince_Mihalek    Cornell          0        1          0
+
+< ** YOUR STATISTIC GOES HERE ** >

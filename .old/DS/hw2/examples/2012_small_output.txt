@@ -1,0 +1,81 @@
+Team Name     W   L   T   Win%  Goals  Penalties
+Rensselaer    5   1   0   0.83     25         26
+Yale          3   3   0   0.50     10         31
+Cornell       2   4   0   0.33     15         33
+Clarkson      2   4   0   0.33     11         37
+
+Player Name         Team         Goals  Assists  Penalties
+Ryan_Haggerty       Rensselaer       3        6          3
+Nick_Bailen         Rensselaer       4        3          1
+Greg_Miller         Cornell          2        4          0
+Jacob_Laliberte     Rensselaer       2        4          0
+Matt_Neal           Rensselaer       2        4          0
+Mike_Zalewski       Rensselaer       4        2          0
+Milos_Bubela        Rensselaer       2        4          2
+Dustin_Mowrey       Cornell          0        6          4
+Andrew_Miller       Yale             1        4          0
+Joakim_Ryan         Cornell          1        4          0
+Brock_Higgs         Rensselaer       0        5          1
+Kenny_Agostino      Yale             3        2          4
+Brian_Ferlin        Cornell          2        3          5
+Curtis_Leonard      Rensselaer       1        3          0
+John_Esposito       Cornell          4        0          1
+Mark_Miller         Rensselaer       1        3          3
+T.J._Moor           Clarkson         2        2          3
+John_McCarron       Cornell          1        3          6
+Joe_Zarbo           Clarkson         2        1          0
+Stu_Wilson          Yale             3        0          0
+Travis_Fulton       Rensselaer       1        2          0
+Bo_Dolan            Rensselaer       1        2          1
+Johnny_Rogic        Rensselaer       1        2          2
+Pat_Megannety       Clarkson         0        3          2
+Will_Frederick      Clarkson         1        2          2
+Ben_Sexton          Clarkson         0        3          3
+Josh_Balch          Yale             0        3          3
+Jarrett_Burton      Clarkson         2        1          4
+Joel_Lowry          Cornell          3        0          6
+James_Howden        Clarkson         2        0          1
+Jesse_Root          Yale             1        1          1
+Mark_McGowan        Rensselaer       2        0          1
+Nick_D'Agostino     Cornell          2        0          1
+Erik_Axell          Cornell          0        2          2
+Simon_Bessette      Clarkson         0        2          2
+Tommy_Fallen        Yale             1        1          2
+Alex_Boak           Clarkson         0        2          3
+Guy_Leboeuf         Rensselaer       1        1          3
+Allan_McPherson     Clarkson         2        0          4
+Ryan_Obuchowski     Yale             0        2          4
+Andrew_Himelson     Clarkson         0        1          0
+Andy_Iles           Cornell          0        1          0
+Cole_Bardreau       Cornell          0        1          0
+Jacob_MacDonald     Cornell          0        1          0
+Matt_Tinordi        Rensselaer       0        1          0
+Nicholas_Weberg     Yale             0        1          0
+Paul_Geiger         Clarkson         0        1          0
+Rob_O'Gara          Yale             0        1          0
+Chris_Bradley       Rensselaer       0        1          1
+Sam_Labrecque       Clarkson         0        1          1
+Vince_Mihalek       Cornell          0        1          1
+Antoine_Laganiere   Yale             0        1          2
+Gus_Young           Yale             0        1          2
+Clinton_Bourbonais  Yale             1        0          3
+Greg_Burgdoerfer    Rensselaer       0        1          3
+Luke_Curadi         Rensselaer       0        1          3
+Colin_Dueck         Yale             0        1          5
+Armand_de_Swardt    Cornell          0        0          1
+Braden_Birch        Cornell          0        0          1
+CJ_Lee              Rensselaer       0        0          1
+Carson_Cooper       Yale             0        0          1
+Christian_Powers    Clarkson         0        0          1
+Kirill_Gotovets     Cornell          0        0          1
+Matthew_Beattie     Yale             0        0          1
+Reece_Willcox       Cornell          0        0          1
+Rodger_Craig        Cornell          0        0          1
+Todd_Christian      Clarkson         0        0          1
+Charles_Orzetti     Yale             0        0          2
+Jeff_DiNallo        Clarkson         0        0          2
+John_Knisley        Cornell          0        0          2
+Matt_Zarbo          Clarkson         0        0          2
+Nik_Pokulok         Clarkson         0        0          6
+
+< ** YOUR STATISTIC GOES HERE ** >
